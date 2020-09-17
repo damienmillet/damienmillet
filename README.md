@@ -39,6 +39,10 @@ redaction en cours
         - particulesjs ...en projet
         - raphael ...en projet
         - webpack ...en cours
+        - lity
+        - ckeditor
+        - i18n
+        - dojo-toolkit
     - api
         - fetch ♥️ (ajax) ...en cours
         - webauthn
@@ -47,6 +51,17 @@ redaction en cours
     - bootstrap 4 certif ...en projet
     - feathericons ...en projet
     - animate.style ...en projet
+    - bulma
+    - semantic
+    - materialize
+    - element
+    - uikit
+    - flat-ui
+    - prarrallalax
+    - font-awesome
+    - pure
+    - 99ko
+    - w3
 - markdown ...en cours
 - yaml ♥️ ...en cours
 - shell
