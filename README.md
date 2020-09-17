@@ -20,6 +20,7 @@
             - nuxtjs ...en projet
             - nextjs ...en projet
             - npm ...en cours
+            - yarn ...en cours
             - mocha ...en cours
         - deno ...en cours
     - lib
@@ -34,14 +35,23 @@
 - yaml ♥️ ...en cours
 - shell
 - python
-- git ...en cours
-    - github ...en cours
-    - gitlab ...en cours
-    - bitbucket ...en cours
-- ide
-    - jetbrains
-    - code ♥️
-- bdd
-    - mariadb/mysql ...en cours
-    - mongodb ♥️ ...en cours
+- tools
+    - atlassian
+        - jira      
+    - docker
+    - git ...en cours
+        - github ...en cours
+        - gitlab ...en cours
+        - bitbucket ...en cours
+    - ide
+        - jetbrains
+        - code ♥️
+    - bdd
+        - mariadb/mysql ...en cours
+        - mongodb ♥️ ...en cours
+- others
+    - sendmail
+    - postfix
+    - ssh
+
 
