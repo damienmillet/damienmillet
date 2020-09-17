@@ -15,31 +15,48 @@
         - vuejs ...en cours
         - react ...en projet
     - back
-        - node ♥️ ...en cours
+        - node ...en cours
             - expressjs ...en cours
             - nuxtjs ...en projet
             - nextjs ...en projet
             - npm ...en cours
             - yarn ...en cours
             - mocha ...en cours
-        - deno ...en cours
+        - deno ♥️ ...en cours
     - lib
+        - rxjs
+        - foundation
+        - jestjs
+        - youmightnotneedjquery
         - jquery ...en cours
+        - lazylinepainter
+        - rellaxjs
+        - snabbt
+        - foxholder
+        - granim
+        - particulesjs
+        - raphael
         - webpack ...en cours
     - api
         - fetch ♥️ (ajax) ...en cours
-- html ...en cours
-- css ...en cours
-    - bootstrap 4 ...en cours
+        - webauthn
+- html certif ...en projet
+- css certif ...en projet
+    - bootstrap 4 certif ...en projet
+    - feathericons
+    - animate.style
 - markdown ...en cours
 - yaml ♥️ ...en cours
 - shell
 - python
 - tools
+    - serverless
+    - kubernet ...en projet
+    - deployer ...en projet
     - atlassian
         - jira      
     - docker
-    - git ...en cours
+    - git certif ...en projet
         - github ...en cours
         - gitlab ...en cours
         - bitbucket ...en cours
@@ -50,6 +67,10 @@
         - mariadb/mysql ...en cours
         - mongodb ♥️ ...en cours
 - others
+    - paylike.io
+    - pandoc
+    - shield.io
+    - semver
     - sendmail
     - postfix
     - ssh
