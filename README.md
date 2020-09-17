@@ -1,16 +1,47 @@
 ### Hi there 👋
+-----
+- php
+    - Symfony 4 / 5 👌
+        - Twig ...en cours
+        - Bundle ...en cours
+        - Doctrine ...en cours
+        - Api-Plateform ...en cours 
+        - Mercure ...en cours
+    - composer ...en cours
+    - phpUnit ...en cours
+    - PSR 12 ...en cours
+- [jt]s
+    - front
+        - vuejs ...en cours
+        - react ...en projet
+    - back
+        - node ♥️ ...en cours
+            - expressjs ...en cours
+            - nuxtjs ...en projet
+            - nextjs ...en projet
+            - npm ...en cours
+            - mocha ...en cours
+        - deno ...en cours
+    - lib
+        - jquery ...en cours
+        - webpack ...en cours
+    - api
+        - fetch ♥️ (ajax) ...en cours
+- html ...en cours
+- css ...en cours
+    - bootstrap 4 ...en cours
+- markdown ...en cours
+- yaml ♥️ ...en cours
+- shell
+- python
+- git ...en cours
+    - github ...en cours
+    - gitlab ...en cours
+    - bitbucket ...en cours
+- ide
+    - jetbrains
+    - code ♥️
+- bdd
+    - mariadb/mysql ...en cours
+    - mongodb ♥️ ...en cours
 
-<!--
-**damienmillet/damienmillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
