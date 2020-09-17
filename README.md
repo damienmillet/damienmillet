@@ -23,21 +23,21 @@ redaction en cours
             - nextjs ...en projet
             - npm ...en cours
             - yarn ...en cours
-            - mocha ...en cours
+            - mocha ...en projet
         - deno ♥️ ...en cours
     - lib
-        - rxjs
-        - foundation
-        - jestjs
-        - youmightnotneedjquery
+        - rxjs ...en projet
+        - foundation ...en projet
+        - jestjs ...en projet
+        - youmightnotneedjquery ...en projet
         - jquery ...en cours
-        - lazylinepainter
-        - rellaxjs
-        - snabbt
-        - foxholder
-        - granim
-        - particulesjs
-        - raphael
+        - lazylinepainter ...en projet
+        - rellaxjs ...en projet
+        - snabbt ...en projet
+        - foxholder ...en projet
+        - granim ...en projet
+        - particulesjs ...en projet
+        - raphael ...en projet
         - webpack ...en cours
     - api
         - fetch ♥️ (ajax) ...en cours
@@ -45,18 +45,18 @@ redaction en cours
 - html certif ...en projet
 - css certif ...en projet
     - bootstrap 4 certif ...en projet
-    - feathericons
-    - animate.style
+    - feathericons ...en projet
+    - animate.style ...en projet
 - markdown ...en cours
 - yaml ♥️ ...en cours
 - shell
 - python
 - tools
-    - serverless
+    - serverless ...en projet
     - kubernet ...en projet
     - deployer ...en projet
     - atlassian
-        - jira      
+        - jira ...en projet 
     - docker
     - git certif ...en projet
         - github ...en cours
@@ -69,12 +69,10 @@ redaction en cours
         - mariadb/mysql ...en cours
         - mongodb ♥️ ...en cours
 - others
-    - paylike.io
-    - pandoc
+    - paylike.io ...en projet
+    - pandoc ...en projet
     - shield.io
     - semver
     - sendmail
     - postfix
     - ssh
-
-
