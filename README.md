@@ -13,17 +13,15 @@ redaction en cours
     - phpUnit ...en cours
     - PSR 12 ...en cours
 - [jt]s
-    - front
+    - node ...en cours
         - vuejs ...en cours
         - react ...en projet
-    - back
-        - node ...en cours
-            - expressjs ...en cours
-            - nuxtjs ...en projet
-            - nextjs ...en projet
-            - npm ...en cours
-            - yarn ...en cours
-            - mocha ...en projet
+        - nuxtjs ...en projet
+        - nextjs ...en projet
+        - expressjs
+        - npm
+        - yarn
+        - mocha ...en projet
         - deno ♥️ ...en cours
     - lib
         - rxjs ...en projet
@@ -71,22 +69,22 @@ redaction en cours
     - kubernet ...en projet
     - deployer ...en projet
     - atlassian
-        - jira ...en projet 
+        - jira
     - docker
-    - git certif ...en projet
-        - github ...en cours
-        - gitlab ...en cours
-        - bitbucket ...en cours
+    - git certif
+        - github
+        - gitlab
+        - bitbucket
     - ide
         - jetbrains
         - code ♥️
     - bdd
-        - mariadb/mysql ...en cours
-        - mongodb ♥️ ...en cours
+        - mariadb/mysql
+        - mongodb ♥️
 - others
     - paylike.io ...en projet
     - pandoc ...en projet
-    - shield.io
+    - [badgen](https://badgen.net/)
     - semver
     - sendmail
     - postfix
