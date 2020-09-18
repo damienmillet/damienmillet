@@ -22,7 +22,7 @@ redaction en cours
         - npm
         - yarn
         - mocha ...en projet
-        - deno ♥️ ...en cours
+    - deno ♥️ ...en cours
     - lib
         - rxjs ...en projet
         - foundation ...en projet
