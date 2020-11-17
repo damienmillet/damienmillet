@@ -75,12 +75,9 @@ redaction en cours
         - github
         - gitlab
         - bitbucket
-    - ide
-        - jetbrains
-        - code ♥️
-    - bdd
-        - mariadb/mysql
-        - mongodb ♥️
+- db
+    - mariadb/mysql
+    - mongodb ♥️
 - others
     - paylike.io ...en projet
     - pandoc ...en projet
