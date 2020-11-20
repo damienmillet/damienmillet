@@ -24,6 +24,7 @@ redaction en cours
         - mocha ...en projet
     - deno ♥️ ...en cours
     - lib
+        - babel ... en projet
         - rxjs ...en projet
         - foundation ...en projet
         - jestjs ...en projet
