@@ -14,11 +14,11 @@ redaction en cours
     - PSR 12 ...en cours
 - [jt]s
     - node ...en cours
-        - vuejs ...en cours
-        - react ...en projet
-        - nuxtjs ...en projet
-        - nextjs ...en projet
         - expressjs
+        - vuejs ...en cours
+            - nuxtjs ...en projet
+        - react ...en projet
+            - nextjs ...en projet
         - npm
         - yarn
         - mocha ...en projet
@@ -58,6 +58,7 @@ redaction en cours
     - flat-ui
     - prarrallalax
     - font-awesome
+    - windtailcss
     - pure
     - 99ko
     - w3
