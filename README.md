@@ -16,7 +16,7 @@ redaction en cours
     - node ...en cours
         - vuejs
         - react
-            - nextjs
+            - nextjs ♥️
         - npm
         - yarn
         - mocha ...en projet
@@ -56,11 +56,11 @@ redaction en cours
     - flat-ui
     - prarrallalax
     - font-awesome
-    - windtailcss
+    - windtailcss ♥️
     - pure
     - 99ko
     - w3
-- markdown
+- markdown ♥️
 - yaml ♥️
 - shell
 - python
@@ -71,7 +71,7 @@ redaction en cours
         - jira
     - docker
     - git certif
-        - github
+        - github ♥️
         - gitlab
         - bitbucket
 - db
