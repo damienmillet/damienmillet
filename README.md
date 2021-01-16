@@ -4,32 +4,29 @@ redaction en cours
 -----
 - php
     - Symfony 4 / 5 👌
-        - Twig ...en cours
-        - Bundle ...en cours
-        - Doctrine ...en cours
-        - Api-Plateform ...en cours 
-        - Mercure ...en cours
-    - composer ...en cours
-    - phpUnit ...en cours
-    - PSR 12 ...en cours
+        - Twig
+        - Bundle
+        - Doctrine
+        - Api-Plateform
+        - Mercure
+    - composer
+    - phpUnit
+    - PSR 12
 - [jt]s
     - node ...en cours
-        - expressjs
-        - vuejs ...en cours
-            - nuxtjs ...en projet
-        - react ...en projet
-            - nextjs ...en projet
+        - vuejs
+        - react
+            - nextjs
         - npm
         - yarn
         - mocha ...en projet
-    - deno ♥️ ...en cours
+    - deno ♥️
     - lib
-        - babel ... en projet
         - rxjs ...en projet
         - foundation ...en projet
         - jestjs ...en projet
         - youmightnotneedjquery ...en projet
-        - jquery ...en cours
+        - jquery
         - lazylinepainter ...en projet
         - rellaxjs ...en projet
         - snabbt ...en projet
@@ -37,13 +34,14 @@ redaction en cours
         - granim ...en projet
         - particulesjs ...en projet
         - raphael ...en projet
+        - babel ... en projet
         - webpack ...en cours
         - lity
         - ckeditor
         - i18n
         - dojo-toolkit
     - api
-        - fetch ♥️ (ajax) ...en cours
+        - fetch ♥️ (ajax)
         - webauthn
 - html certif ...en projet
 - css certif ...en projet
@@ -62,12 +60,11 @@ redaction en cours
     - pure
     - 99ko
     - w3
-- markdown ...en cours
-- yaml ♥️ ...en cours
+- markdown
+- yaml ♥️
 - shell
 - python
 - tools
-    - serverless ...en projet
     - kubernet ...en projet
     - deployer ...en projet
     - atlassian
