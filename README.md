@@ -17,12 +17,12 @@ redaction en cours
         - vuejs
         - react
             - nextjs ♥️
+                - NextAuth.js ❌ (18/01/2021)
         - npm
         - yarn
         - mocha ...en projet
     - deno ♥️
     - lib
-        - NextAuth.js ❌ (18/01/2021)
         - rxjs ...en projet
         - foundation ...en projet
         - jestjs ...en projet
