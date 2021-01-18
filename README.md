@@ -22,6 +22,7 @@ redaction en cours
         - mocha ...en projet
     - deno ♥️
     - lib
+        - NextAuth.js ❌ (18/01/2021)
         - rxjs ...en projet
         - foundation ...en projet
         - jestjs ...en projet
@@ -34,8 +35,6 @@ redaction en cours
         - granim ...en projet
         - particulesjs ...en projet
         - raphael ...en projet
-        - babel ... en projet
-        - webpack ...en cours
         - lity
         - ckeditor
         - i18n
