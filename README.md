@@ -12,7 +12,7 @@ redaction en cours
     - composer
     - phpUnit
     - PSR 12
-- [jt]s
+- [jt]s (ES6)
     - node ...en cours
         - vuejs
         - react
