@@ -14,12 +14,8 @@ redaction en cours
     - PSR 12
 - [jt]s (ES6)
     - node ...en cours
-        - vuejs
-        - react
-            - nextjs ♥️
-                - NextAuth.js ❌ (18/01/2021)
-        - npm
-        - yarn
+        - nextjs ♥️
+            - NextAuth.js ❌ (18/01/2021)
         - mocha ...en projet
     - deno ♥️
     - lib
