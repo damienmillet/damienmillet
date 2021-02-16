@@ -2,16 +2,7 @@
 -----
 redaction en cours
 -----
-- php
-    - Symfony 4 / 5 👌
-        - Twig
-        - Bundle
-        - Doctrine
-        - Api-Plateform
-        - Mercure
-    - composer
-    - phpUnit
-    - PSR 12
+- Symfony 4 / 5 👌
 - [jt]s (ES6)
     - node ...en cours
         - nextjs ♥️
@@ -38,11 +29,10 @@ redaction en cours
     - api
         - fetch ♥️ (ajax)
         - webauthn
-- html certif ...en projet
-- css certif ...en projet
-    - bootstrap 4 certif ...en projet
-    - feathericons ...en projet
-    - animate.style ...en projet
+- css
+    - bootstrap 4
+    - feathericons
+    - animate.style
     - bulma
     - semantic
     - materialize
@@ -50,11 +40,11 @@ redaction en cours
     - uikit
     - flat-ui
     - prarrallalax
-    - font-awesome
+    - font-awesome ♥️
     - windtailcss ♥️
     - pure
     - 99ko
-    - w3
+    - w3 ♥️
 - markdown ♥️
 - yaml ♥️
 - shell
@@ -65,7 +55,7 @@ redaction en cours
     - atlassian
         - jira
     - docker
-    - git certif
+    - git
         - github ♥️
         - gitlab
         - bitbucket
